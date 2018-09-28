@@ -1,0 +1,8 @@
+datasets
+
+iris 
+
+Social networkd ads from kaggle
+
+other datasets
+https://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival
